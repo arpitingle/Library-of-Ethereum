@@ -1,6 +1,10 @@
+cuarated collection of ethereum ecosystem resources 
+
 # Basics
 official site 
 docs 
+
+# infra
 
 # Layer 2 
 op
