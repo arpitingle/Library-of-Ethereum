@@ -36,6 +36,7 @@ repos
 
 # dao
 # nft
+# evm
 
 foundry 
 hardhat 
