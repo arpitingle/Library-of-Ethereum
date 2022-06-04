@@ -33,6 +33,10 @@ repos
 repos 
 
 # frameworks 
+
+# dao
+# nft
+
 foundry 
 hardhat 
 
