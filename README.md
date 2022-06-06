@@ -1,5 +1,9 @@
-cuarated collection of ethereum ecosystem resources 
+# Cuarated Collection of Ethereum Ecosystem Resources 
 
-# Basic 
 ## Basic 
-### Basic 
+
+[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) whitepaper
+[Ethereum Docs](https://ethereum.org/en/developers/docs/)
+
+
+
