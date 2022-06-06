@@ -1,5 +1,5 @@
 # EthReso
-Cuarated Collection of Ethereum Ecosystem Resource
+### Cuarated Collection of Ethereum Ecosystem Resource
 
 ## Table of Contents 
 - [Basics](#basics)
@@ -15,7 +15,7 @@ Cuarated Collection of Ethereum Ecosystem Resource
 
 ## Basics
 
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) whitepaper
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) 
 - [Ethereum Docs](https://ethereum.org/en/developers/docs/)
 
 ## Smart Contracts 
