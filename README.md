@@ -1,5 +1,6 @@
 # EthReso
 Cuarated Collection of Ethereum Ecosystem Resources 
+### Contributions are welcomed 
 
 ## Table of Contents 
 - [Basics](#basics)
@@ -31,7 +32,6 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) 
 - [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts verified on Etherscan 
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
-- [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
 - [Boring Solidity](https://github.com/boringcrypto/BoringSolidity) - BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.
 - [Solidity 101](https://github.com/hrkrshnn/solidity101)
 
@@ -55,6 +55,21 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [DeFi Open Source Tools](https://github.com/gauss314/defi)
 - [DeFi Papers](https://github.com/irnb/DeFiPapers)
-- [DeFi Risk Tools & Resources](DeFi Risk Tools & Resources)
+- [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list)
+
+## Security 
+
+- [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references, guidance, tools, and more.
+- [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - This repo is a collection of practical security-focused guides and checklists for smart contract development, assembled by the Nascent team to share with our portfolio companies and others in the ecosystem who might find it useful.
+- [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools
+- [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
+- [Awesome Cryptocurrency Security](https://github.com/nongiach/awesome-cryptocurrency-security) - Curated list about cryptocurrency security. (reverse, exploit, fuzz)
+
+## Layer 2 
+
+- [Arbitrum](https://github.com/OffchainLabs/arbitrum)
+- [dYdX](https://github.com/dydxprotocol)
+- [Optimism](https://github.com/ethereum-optimism)
+- 
 
 
