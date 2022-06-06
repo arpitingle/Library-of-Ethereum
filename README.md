@@ -1,5 +1,5 @@
 # EthReso
-### Cuarated Collection of Ethereum Ecosystem Resource
+Cuarated Collection of Ethereum Ecosystem Resource
 
 ## Table of Contents 
 - [Basics](#basics)
