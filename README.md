@@ -1,6 +1,6 @@
 # EthReso
-Cuarated Collection of Ethereum Ecosystem Resources 
-### Contributions are welcomed 
+- Cuarated Collection of Ethereum Ecosystem Resources 
+- Contributions are welcomed 
 
 ## Table of Contents 
 - [Basics](#basics)
