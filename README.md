@@ -18,5 +18,8 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) whitepaper
 - [Ethereum Docs](https://ethereum.org/en/developers/docs/)
 
+## Smart Contracts 
+
+### Solidity
 
 
