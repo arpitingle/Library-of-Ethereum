@@ -35,10 +35,26 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [Boring Solidity](https://github.com/boringcrypto/BoringSolidity) - BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.
 - [Solidity 101](https://github.com/hrkrshnn/solidity101)
 
-## Vyper
+### Vyper
 - [Vyper Docs](https://vyper.readthedocs.io/en/stable/)
 - [Vyper Official Repo](https://github.com/vyperlang/vyper)
 
-## Cairo
+### Cairo
+- [Cairo Docs](https://www.cairo-lang.org/docs/)
+- [Cairo Official Repo](https://github.com/starkware-libs/cairo-lang)
+- [Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts)
+- [Cairo 101](https://github.com/l-henri/starknet-cairo-101)
+- [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine)
+- [Cairo Libs](https://github.com/sekai-studio/starknet-libs) - A series of libraries to help using Cairo on StarkNet.
 
+## DeFi 
 
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) 
+- [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects, software, and resources.
+- [Money Legos](https://github.com/studydefi/money-legos) - ne stop shop for Ethereum ABIs, addresses, and Solidity interfaces
+- [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [DeFi Open Source Tools](https://github.com/gauss314/defi)
+- [DeFi Papers](https://github.com/irnb/DeFiPapers)
+- [DeFi Risk Tools & Resources](DeFi Risk Tools & Resources)
+
+## 
