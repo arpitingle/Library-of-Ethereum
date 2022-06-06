@@ -21,5 +21,10 @@ Cuarated Collection of Ethereum Ecosystem Resources
 ## Smart Contracts 
 
 ### Solidity
+- [Solidity Docs](https://docs.soliditylang.org/)
+- [Solidity Official Repo](https://github.com/ethereum/solidity)
+- [Open Zeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+- [Smart Contract Security Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Awesome Solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more. 
 
 
