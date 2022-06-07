@@ -69,6 +69,57 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [Arbitrum](https://github.com/OffchainLabs/arbitrum)
 - [dYdX](https://github.com/dydxprotocol)
 - [Optimism](https://github.com/ethereum-optimism)
-- 
+- [Loopring](https://github.com/Loopring)
+- [Metis Protocol](https://github.com/MetisProtocol)
+- [Boba Network](https://github.com/bobanetwork)
+- [ZKSync](https://github.com/matter-labs/zksync)
+- [Aztec Protocol](https://github.com/AztecProtocol)
+- [Starkware](https://github.com/starkware-libs/)
+
+## EVM
+
+- [EVM Book](https://github.com/0xKitsune/EVM-Book) - A collection of EVM related information
+- [EVMONE](https://github.com/ethereum/evmone) - evmone is a C++ implementation of the Ethereum Virtual Machine (EVM)
+- [SputnikVM](https://github.com/rust-blockchain/evm) - Rust Ethereum Virtual Machine Implementation
+- [EVM Tools](https://github.com/CoinCulture/evm-tools) - A collection of tools for working with the evm
+- [EVM Opcodes](https://github.com/wolflo/evm-opcodes) - This is intended to be an accessible reference, but it is informal and does not address opcode semantics
+- [Enclave EVM](https://github.com/microsoft/eEVM) - Enclave EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine
+- [EVM Puzzles](https://github.com/fvictorio/evm-puzzles) - A collection of EVM puzzles
+- [rEVM](https://github.com/bluealloy/revm) - Rust Ethereum Virtual Machine with great name that is focused on speed and simplicity
+- [EVM Lab](https://github.com/ethereum/evmlab) - This package contains various tools to interact with the Ethereum virtual machine 
+- [EVM Codes](https://github.com/comitylabs/evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes
+- [Pyevmasm](https://github.com/crytic/pyevmasm) - pyevmasm is an assembler and disassembler library for the Ethereum Virtual Machine (EVM). 
+- [EVM Toolkit](https://github.com/quilt/etk) - ETK is a collection of tools for writing, reading, and analyzing EVM bytecode.
+- [EVModin](https://github.com/vorot93/evmodin) - Fast EVM implementation with support for resumability. Port of evmone to Rust.
+- [SolVM](https://github.com/brockelmore/solvm) - A (slightly) stripped down version of the EVM implemented on top of the EVM using yul and solidity.
+- [Go EVMLab](https://github.com/holiman/goevmlab) - This project is inspired by EVMlab, which was written in Python
+- [EVM Draw Contract](https://github.com/DanielVF/evm-contract-draw) - This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract
+
+## MEV
+
+- [Awesome MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) - Curated MEV resources 
+- [MEV](https://github.com/Dogetoshi/MEV) - MEV resources 
+- [MEV Geth](https://github.com/flashbots/mev-geth) - This is a fork of go-ethereum 
+- [MEV](https://github.com/0xmebius/mev) -  MEV Book
+- [MEV Research](https://github.com/flashbots/mev-research) - Flashbots Research
+- [MEV](https://github.com/pdaian/mev) - Miner extractable value modeling and tools.
+- [MEV Inspeact](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
+
+## Cryptography 
+
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links
+- [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+- [Cryptography](https://github.com/boazbk/crypto) - An intensive introduction to cryptography
+- [ETH Crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials on how to use them together with web3js and solidity
+- [Awesome Secure Computation](https://github.com/Jamie-Cui/awesome-secure-computation) - This repo is a paper summary for cryptography-based secure computation papers, including topics like Multiparty Computation, Homomorphic Encryption (or Lattice) and Differential Privacy
+- [Ethereum Cryptography](https://github.com/ethereum/js-ethereum-cryptography) - Every cryptographic primitive needed to work on Ethereum, for the browser and Node.js
+- [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography) - Intuitive Advanced Cryptography PDF
+
+## ZKPs
+
+- [Awesome ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
+- [OpenZKP](https://github.com/0xProject/OpenZKP) - OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems
+- [ZKP Learning in public](https://github.com/JofArnold/zkp-learning-in-public) - ZKP resources 
+- [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - articles, codes and tools all about zero-knowledge proofs
 
 
