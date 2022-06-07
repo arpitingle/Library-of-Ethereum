@@ -123,3 +123,10 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - articles, codes and tools all about zero-knowledge proofs
 
 
+## Support Project
+
+If you want to support my work, you can send a donation to the address:
+
+0x8A010cc8d93c4E2d7F23fD7FF2269CF38B909d2A— ERC20 & ETH a4pit.eth
+
+
