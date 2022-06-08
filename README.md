@@ -3,7 +3,7 @@ Cuarated Collection of Ethereum Ecosystem Resources
 
 ## Table of Contents 
 - [Basics](#basics)
-- [Smart Contracts](#smart-contract)
+- [Smart Contracts](#smart-contracts)
 - [DeFi](#defi)
 - [Security](#security)
 - [Layer 2](#layer-2)
@@ -121,7 +121,7 @@ Cuarated Collection of Ethereum Ecosystem Resources
 - [OpenZKP](https://github.com/0xProject/OpenZKP) - OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems
 - [ZKP Learning in public](https://github.com/JofArnold/zkp-learning-in-public) - ZKP resources 
 - [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - articles, codes and tools all about zero-knowledge proofs
--
+
 
 ## Contributions are welcomed 
 Join the support group on telegram (https://t.me/loesupport) for any queries or suggestions. Feedback appreciated. 
