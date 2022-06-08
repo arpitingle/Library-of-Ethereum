@@ -1,5 +1,5 @@
 # Library of Ethereum
-Cuarated Collection of Ethereum Ecosystem Resources
+Curated Collection of Ethereum Ecosystem Resources
 
 ## Table of Contents 
 - [Basics](#basics)
