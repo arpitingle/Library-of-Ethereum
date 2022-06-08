@@ -130,6 +130,6 @@ Join the support group on telegram (https://t.me/loesupport) for any queries or 
 
 If you want to support my work, you can send a donation to the address:
 
-0x8A010cc8d93c4E2d7F23fD7FF2269CF38B909d2A— ERC20 & ETH a4pit.eth 
+0x8A010cc8d93c4E2d7F23fD7FF2269CF38B909d2A — ERC20 & ETH a4pit.eth 
 
 
