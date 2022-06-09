@@ -121,6 +121,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [OpenZKP](https://github.com/0xProject/OpenZKP) - OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems
 - [ZKP Learning in public](https://github.com/JofArnold/zkp-learning-in-public) - ZKP resources 
 - [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - articles, codes and tools all about zero-knowledge proofs
+- [Awesome ZK](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more
 
 
 ## Contributions are welcomed 
