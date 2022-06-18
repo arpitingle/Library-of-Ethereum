@@ -11,6 +11,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV](#mev)
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
+- [Misc](#misc)
 
 
 ## Basics
@@ -123,6 +124,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - articles, codes and tools all about zero-knowledge proofs
 - [Awesome ZK](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more
 
+## Misc 
 
 ## Contributions are welcomed 
 Join the support group on telegram (https://t.me/loesupport) for any queries or suggestions. Feedback appreciated. 
