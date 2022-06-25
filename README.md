@@ -56,6 +56,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [DeFi Open Source Tools](https://github.com/gauss314/defi)
 - [DeFi Papers](https://github.com/irnb/DeFiPapers)
 - [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list)
+- [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
 
 ## Security 
 
