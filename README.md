@@ -128,7 +128,7 @@ Curated Collection of Ethereum Ecosystem Resources
 ## Misc 
 
 ## Contributions are welcomed 
-Join the support group on telegram (https://t.me/loesupport) for any queries or suggestions. Feedback appreciated. 
+Fork the repo and make a PR.  
 
 ## Support Project
 
