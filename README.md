@@ -107,7 +107,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV Research](https://github.com/flashbots/mev-research) - Flashbots Research
 - [MEV](https://github.com/pdaian/mev) - Miner extractable value modeling and tools.
 - [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
-- [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
+- [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-) - Reading list for MEV
 
 ## Cryptography 
 
