@@ -129,6 +129,9 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## Misc 
 
+- [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
+
+
 ## Contributions are welcomed 
 Fork the repo and make a PR.  
 
