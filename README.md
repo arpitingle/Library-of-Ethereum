@@ -118,6 +118,8 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Awesome Secure Computation](https://github.com/Jamie-Cui/awesome-secure-computation) - This repo is a paper summary for cryptography-based secure computation papers, including topics like Multiparty Computation, Homomorphic Encryption (or Lattice) and Differential Privacy
 - [Ethereum Cryptography](https://github.com/ethereum/js-ethereum-cryptography) - Every cryptographic primitive needed to work on Ethereum, for the browser and Node.js
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography) - Intuitive Advanced Cryptography PDF
+- [Cryptography](https://github.com/dcbuild3r/blockchain-development-guide#cryptography) - Guide to cryptography 
+
 
 ## ZKPs
 
