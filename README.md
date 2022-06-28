@@ -8,6 +8,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Security](#security)
 - [Layer 2](#layer-2)
 - [EVM](#evm)
+- [Oracles](#oracles)
 - [MEV](#mev)
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
@@ -97,6 +98,12 @@ Curated Collection of Ethereum Ecosystem Resources
 - [SolVM](https://github.com/brockelmore/solvm) - A (slightly) stripped down version of the EVM implemented on top of the EVM using yul and solidity.
 - [Go EVMLab](https://github.com/holiman/goevmlab) - This project is inspired by EVMlab, which was written in Python
 - [EVM Draw Contract](https://github.com/DanielVF/evm-contract-draw) - This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract
+
+## Oracles 
+
+- [Oracles](https://ethereum.org/en/developers/docs/oracles/)  - Good explanation of Oracles 
+- [Oracle Resources](https://forum.openzeppelin.com/t/list-of-oracle-resources/5998) - Comprehensive Oracle resources 
+- [Oracle Thread](https://twitter.com/officer_cia/status/1418018953742409738) -  Twitter thread on Oracles 
 
 ## MEV
 
