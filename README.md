@@ -2,8 +2,8 @@
 Curated Collection of Ethereum Ecosystem Resources
 
 ## Contributions 
-- If you want anything to be added you can create an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-- Fork the repo and make a PR.  
+- If you want anything to be added you can create an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) 
+- Alternatively, you can fork the repo and make a PR.  
 
 ## Table of Contents 
 - [Basics](#basics)
