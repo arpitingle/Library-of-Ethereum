@@ -105,12 +105,6 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Go EVMLab](https://github.com/holiman/goevmlab) - This project is inspired by EVMlab, which was written in Python
 - [EVM Draw Contract](https://github.com/DanielVF/evm-contract-draw) - This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract
 
-## Oracles 
-
-- [Oracles](https://ethereum.org/en/developers/docs/oracles/)  - Good explanation of Oracles 
-- [Oracle Resources](https://forum.openzeppelin.com/t/list-of-oracle-resources/5998) - Comprehensive Oracle resources 
-- [Oracle Thread](https://twitter.com/officer_cia/status/1418018953742409738) -  Twitter thread on Oracles 
-
 ## MEV
 
 - [Awesome MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) - Curated MEV resources 
@@ -147,8 +141,19 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
 - [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
 
+### Oracles 
 
+- [Oracles](https://ethereum.org/en/developers/docs/oracles/)  - Good explanation of Oracles 
+- [Oracle Resources](https://forum.openzeppelin.com/t/list-of-oracle-resources/5998) - Comprehensive Oracle resources 
+- [Oracle Thread](https://twitter.com/officer_cia/status/1418018953742409738) -  Twitter thread on Oracles 
 
+### Sharding 
+
+- [Sharding](https://vitalik.ca/general/2021/04/07/sharding.html) - Vitlik Buterin's article on Sharding 
+- [Danksharding](https://notes.ethereum.org/@dankrad/new_sharding) - New sharding design by Dankrad Feist 
+- [Sharding Docs](https://ethereum.org/en/upgrades/sharding/) - Official docs on sharding 
+
+### Governance 
 
 
 
