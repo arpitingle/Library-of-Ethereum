@@ -19,6 +19,7 @@ Curated Collection of Ethereum Ecosystem Resources
   - [Oracles](#oracles)
   - [Sharding](#sharding)
   - [Governance](#governance)
+  - [Special Mentions](#special-mentions)
 
 
 ## Basics
