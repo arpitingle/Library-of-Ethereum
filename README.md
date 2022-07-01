@@ -16,9 +16,9 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
 - [Misc](#misc)
- - [Oracles](#oracles)
- - [Sharding](#sharding)
- - [Governance](#governance)
+  - [Oracles](#oracles)
+  - [Sharding](#sharding)
+  - [Governance](#governance)
 
 
 ## Basics
