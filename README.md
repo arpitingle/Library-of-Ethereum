@@ -64,6 +64,8 @@ Curated Collection of Ethereum Ecosystem Resources
 - [DeFi Papers](https://github.com/irnb/DeFiPapers)
 - [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list)
 - [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
+- [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
+
 
 ## Security 
 
@@ -138,9 +140,6 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## Misc 
 
-- [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
-- [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
-
 ### Oracles 
 
 - [Oracles](https://ethereum.org/en/developers/docs/oracles/)  - Good explanation of Oracles 
@@ -154,6 +153,13 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Sharding Docs](https://ethereum.org/en/upgrades/sharding/) - Official docs on sharding 
 
 ### Governance 
+
+- [Awesome Governance](https://github.com/Ro5s/Awesome-Governance) - Contracts, links and other stuff that makes Governance Awesome.
+
+### Special Mentions 
+
+- [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
+
 
 
 
