@@ -12,11 +12,13 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Security](#security)
 - [Layer 2](#layer-2)
 - [EVM](#evm)
-- [Oracles](#oracles)
 - [MEV](#mev)
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
 - [Misc](#misc)
+ - [Oracles](#oracles)
+ - [Sharding](#sharding)
+ - [Governance](#governance)
 
 
 ## Basics
