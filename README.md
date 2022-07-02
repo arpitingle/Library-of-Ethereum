@@ -19,6 +19,7 @@ Curated Collection of Ethereum Ecosystem Resources
   - [Oracles](#oracles)
   - [Sharding](#sharding)
   - [Governance](#governance)
+  - [Audit Checklists](#audit-checklists)
   - [Special Mentions](#special-mentions)
 
 
@@ -156,6 +157,12 @@ Curated Collection of Ethereum Ecosystem Resources
 ### Governance 
 
 - [Awesome Governance](https://github.com/Ro5s/Awesome-Governance) - Contracts, links and other stuff that makes Governance Awesome.
+
+### Audit Checklists 
+
+- [Smart Contracts Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
+- [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist) - A Solidity smart contract auditing checklist 
+- [Audit Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md) - Bare minimum quality checklist
 
 ### Special Mentions 
 
