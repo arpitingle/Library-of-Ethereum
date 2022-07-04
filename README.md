@@ -168,6 +168,7 @@ Curated Collection of Ethereum Ecosystem Resources
 ### Special Mentions 
 
 - [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
+- [Devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) - A Public Good Blockchain Development Guide
 
 
 
