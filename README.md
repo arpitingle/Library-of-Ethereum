@@ -15,6 +15,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV](#mev)
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
+- [Diagrams](#diagram) 
 - [Misc](#misc)
   - [Oracles](#oracles)
   - [Sharding](#sharding)
