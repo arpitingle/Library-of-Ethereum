@@ -21,6 +21,7 @@ Curated Collection of Ethereum Ecosystem Resources
   - [Sharding](#sharding)
   - [Governance](#governance)
   - [Audit Checklists](#audit-checklists)
+  - [Diagrams](#diagrams)
   - [Special Mentions](#special-mentions)
 
 
@@ -164,6 +165,10 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Smart Contracts Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
 - [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist) - A Solidity smart contract auditing checklist 
 - [Audit Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md) - Bare minimum quality checklist
+
+### Diagrams 
+
+- [Awesome Ethereum Diagrams](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) - A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.
 
 ### Special Mentions 
 
