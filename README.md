@@ -6,7 +6,6 @@ Curated Collection of Ethereum Ecosystem Resources
 - Alternatively, you can fork the repo, edit it and make a PR.  
 
 ## Table of Contents 
-- [Basics](#basics)
 - [Smart Contracts](#smart-contracts)
 - [DeFi](#defi)
 - [Security](#security)
@@ -24,10 +23,6 @@ Curated Collection of Ethereum Ecosystem Resources
   - [Special Mentions](#special-mentions)
 
 
-## Basics
-
-- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) 
-- [Ethereum Docs](https://ethereum.org/en/developers/docs/)
 
 ## Smart Contracts 
 
