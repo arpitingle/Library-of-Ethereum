@@ -163,6 +163,7 @@ Curated Collection of Ethereum Ecosystem Resources
 ### Diagrams 
 
 - [Awesome Ethereum Diagrams](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) - A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.
+- [Ethereum Diagrams](https://github.com/4c656554/BlockchainIllustrations#ethereum)
 
 ### Special Mentions 
 
