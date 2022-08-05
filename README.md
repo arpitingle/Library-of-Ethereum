@@ -148,6 +148,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Oracles](https://ethereum.org/en/developers/docs/oracles/)  - Good explanation of Oracles 
 - [Oracle Resources](https://forum.openzeppelin.com/t/list-of-oracle-resources/5998) - Comprehensive Oracle resources 
 - [Oracle Thread](https://twitter.com/officer_cia/status/1418018953742409738) -  Twitter thread on Oracles 
+- [Awesome Oracle Mamipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - All awesome awesome oracacle manipulation related content
 
 ### Sharding 
 
