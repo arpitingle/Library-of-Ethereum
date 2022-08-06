@@ -104,6 +104,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [SolVM](https://github.com/brockelmore/solvm) - A (slightly) stripped down version of the EVM implemented on top of the EVM using yul and solidity.
 - [Go EVMLab](https://github.com/holiman/goevmlab) - This project is inspired by EVMlab, which was written in Python
 - [EVM Draw Contract](https://github.com/DanielVF/evm-contract-draw) - This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract
+- [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d) - A curated list of EVM resources for aspiring shadowy super coders.
 
 ## MEV
 
