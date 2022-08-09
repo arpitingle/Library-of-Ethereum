@@ -177,6 +177,8 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
 - [Devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) - A Public Good Blockchain Development Guide
 - [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
+- [Awesome AMMs](https://github.com/0xperp/awesome-amm) - Collection of AMMs, Orderbooks, and everything in between.
+- [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards. 
 
 
 
