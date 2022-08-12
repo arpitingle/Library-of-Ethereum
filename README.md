@@ -153,7 +153,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ### Sharding 
 
-- [Sharding](https://vitalik.ca/general/2021/04/07/sharding.html) - Vitlik Buterin's article on Sharding 
+- [Sharding](https://vitalik.ca/general/2021/04/07/sharding.html) - Vitalik Buterin's article on Sharding 
 - [Danksharding](https://notes.ethereum.org/@dankrad/new_sharding) - New sharding design by Dankrad Feist 
 - [Sharding Docs](https://ethereum.org/en/upgrades/sharding/) - Official docs on sharding 
 
