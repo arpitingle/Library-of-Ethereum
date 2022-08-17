@@ -42,6 +42,8 @@ Curated Collection of Ethereum Ecosystem Resources
 ### Vyper
 - [Vyper Docs](https://vyper.readthedocs.io/en/stable/)
 - [Vyper Official Repo](https://github.com/vyperlang/vyper)
+- [Snekmate](https://github.com/pcaversaccio/snekmate) - State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks. 
+- [Vyper Dev](https://github.com/zcor/vyper-dev) - Vyper resources 
 
 ### Cairo
 - [Cairo Docs](https://www.cairo-lang.org/docs/)
