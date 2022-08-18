@@ -40,18 +40,18 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Boring Solidity](https://github.com/boringcrypto/BoringSolidity) - BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.
 
 ### Vyper
-- [Vyper Docs](https://vyper.readthedocs.io/en/stable/)
-- [Vyper Official Repo](https://github.com/vyperlang/vyper)
+- [Vyper Docs](https://vyper.readthedocs.io/en/stable/) - Official Vyper Docs 
+- [Vyper](https://github.com/vyperlang/vyper) - Official Vyper Repo 
 - [Snekmate](https://github.com/pcaversaccio/snekmate) - State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks. 
 - [Vyper Dev](https://github.com/zcor/vyper-dev) - Vyper resources 
 
 ### Cairo
-- [Cairo Docs](https://www.cairo-lang.org/docs/)
-- [Cairo Official Repo](https://github.com/starkware-libs/cairo-lang)
-- [Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts)
-- [Cairo 101](https://github.com/l-henri/starknet-cairo-101)
-- [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine)
-- [Cairo Libs](https://github.com/sekai-studio/starknet-libs) - A series of libraries to help using Cairo on StarkNet.
+- [Cairo Docs](https://www.cairo-lang.org/docs/) - Official Cairo Docs 
+- [Cairo](https://github.com/starkware-libs/cairo-lang) - Officila Cairo Repo 
+- [Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts) - A library for secure smart contract development written in Cairo for StarkNet
+- [Cairo 101](https://github.com/l-henri/starknet-cairo-101) - Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts!
+- [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine) - A Comprehensive, Annotated List of Repositories of the Starknet Ecosystem. 
+- [Cairo Libs](https://github.com/sekai-studio/starknet-libs) - 
 
 ## DeFi 
 
