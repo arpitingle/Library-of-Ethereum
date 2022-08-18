@@ -55,7 +55,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## DeFi 
 
-- [DeFi Developer Road Map](Here we collect and discuss the best DeFi & Blockchain researches and tools) - Here we collect and discuss the best DeFi & Blockchain researches and tools
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Here we collect and discuss the best DeFi & Blockchain researches and tools) - Here we collect and discuss the best DeFi & Blockchain researches and tools
 - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects, software, and resources.
 - [Money Legos](https://github.com/studydefi/money-legos) - one stop shop for Ethereum ABIs, addresses, and Solidity interfaces
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
