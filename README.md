@@ -51,11 +51,11 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts) - A library for secure smart contract development written in Cairo for StarkNet
 - [Cairo 101](https://github.com/l-henri/starknet-cairo-101) - Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts!
 - [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine) - A Comprehensive, Annotated List of Repositories of the Starknet Ecosystem. 
-- [Cairo Libs](https://github.com/sekai-studio/starknet-libs) - 
+- [Cairo Open](https://github.com/CairOpen/cairopen-contracts) - A set of libraries to help using Cairo on StarkNet.  
 
 ## DeFi 
 
-- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) 
+- [DeFi Developer Road Map](Here we collect and discuss the best DeFi & Blockchain researches and tools) - Here we collect and discuss the best DeFi & Blockchain researches and tools
 - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects, software, and resources.
 - [Money Legos](https://github.com/studydefi/money-legos) - one stop shop for Ethereum ABIs, addresses, and Solidity interfaces
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
