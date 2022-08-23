@@ -55,12 +55,12 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## DeFi 
 
-- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Here we collect and discuss the best DeFi & Blockchain researches and tools) - Here we collect and discuss the best DeFi & Blockchain researches and tools
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Curated DeFi Developer Road map 
 - [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects, software, and resources.
-- [Money Legos](https://github.com/studydefi/money-legos) - one stop shop for Ethereum ABIs, addresses, and Solidity interfaces
-- [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
-- [DeFi Open Source Tools](https://github.com/gauss314/defi)
-- [DeFi Papers](https://github.com/irnb/DeFiPapers)
+- [Money Legos](https://github.com/studydefi/money-legos) - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces
+- [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) - DeFi Research Tools 
+- [DeFi Open Source Tools](https://github.com/gauss314/defi) - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more
+- [DeFi Papers](https://github.com/irnb/DeFiPapers) - Collection of papers related to DeFi 
 - [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list)
 - [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
 - [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
