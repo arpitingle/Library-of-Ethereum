@@ -9,7 +9,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Smart Contracts](#smart-contracts)
 - [DeFi](#defi)
 - [Security](#security)
-- [Layer 2](#layer-2)
+- [Rollups](#rollups)
 - [EVM](#evm)
 - [MEV](#mev)
 - [Cryptography](#cryptography)
@@ -75,7 +75,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Awesome Cryptocurrency Security](https://github.com/nongiach/awesome-cryptocurrency-security) - Curated list about cryptocurrency security. (reverse, exploit, fuzz)
 - [Awesome web3 Security ](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 
-## Layer 2 
+## Rollups 
 
 - [Arbitrum](https://github.com/OffchainLabs/arbitrum)
 - [dYdX](https://github.com/dydxprotocol)
