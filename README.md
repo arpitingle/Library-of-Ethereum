@@ -64,7 +64,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list)
 - [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
 - [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
-
+- [DeFi Playground](https://github.com/0xDaksh/defi-playground) - DeFi playground to learn about protocols
 
 ## Security 
 
