@@ -117,7 +117,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV](https://github.com/pdaian/mev) - Miner extractable value modeling and tools.
 - [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
 - [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-) - Reading list for MEV
-
+- [MEV Darkforest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 ## Cryptography 
 
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links
