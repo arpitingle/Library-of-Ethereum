@@ -79,7 +79,7 @@ Curated Collection of Ethereum Ecosystem Resources
 ## Rollups 
 
 - [Layer 2 for Ethereum](https://ethereum.org/en/layer-2/) - Scaling chain without compromising security.
-- [Go to guide for Layer 2](https://www.blockchain-council.org/ethereum/best-ethereum-layer-2/) - Layer 2 Solutions – A Comprehensive Guide
+- [Go to guide for Layer 2](https://www.blockchain-council.org/ethereum/best-ethereum-layer-2/) - A Comprehensive Guide on Layer 2 Solutions 
 - [Arbitrum](https://developer.offchainlabs.com/) - Arbitrum Documentation Centre 
 - [Optimism](https://community.optimism.io/) - Optimism Docs 
 - [ZKSync](https://docs.zksync.io/dev/) - Introduction to zkSync for Developers 
