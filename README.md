@@ -14,9 +14,11 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV](#mev)
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
+- [Layer 2](#layer-2)
 - [Misc](#misc)
   - [Oracles](#oracles)
   - [Sharding](#sharding)
+  - [Token Standards]()
   - [Governance](#governance)
   - [Audit Checklists](#audit-checklists)
   - [Diagrams](#diagrams)
@@ -118,6 +120,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
 - [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-) - Reading list for MEV
 - [MEV Darkforest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+- [Flash Boys 2.0](https://github.com/flashbots/pm)
 ## Cryptography 
 
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links
@@ -142,6 +145,12 @@ Curated Collection of Ethereum Ecosystem Resources
 - [ZK Knowledge](https://github.com/delendum-xyz/zk-knowledge) - Knowledge base of ZKP including applications, hardware, technical discussions and more.
 - [ZK Rollups](https://github.com/john-light/zkrollups) - zkRollup resources 
 
+## Layer 2
+
+- [Layer 2 for Ethereum](https://ethereum.org/en/layer-2/) - Scaling chain without compromising security.
+- [Go to guide for Layer 2](https://www.blockchain-council.org/ethereum/best-ethereum-layer-2/) - Layer 2 Solutions – A Comprehensive Guide
+- [Everything Polygon](https://blog.polygon.technology/) - Deep dive into Polygon ecosystem and it's verticles
+
 ## Misc 
 
 ### Oracles 
@@ -156,6 +165,12 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Sharding](https://vitalik.ca/general/2021/04/07/sharding.html) - Vitalik Buterin's article on Sharding 
 - [Danksharding](https://notes.ethereum.org/@dankrad/new_sharding) - New sharding design by Dankrad Feist 
 - [Sharding Docs](https://ethereum.org/en/upgrades/sharding/) - Official docs on sharding 
+
+### Token Standards
+
+- [ERC Token Standards](https://www.blockchain-council.org/ethereum/erc-token-standards/) - The ultimate list
+- [Applications of different standrds](https://metaschool.so/courses/creating-nfts-using-different-token-standards/lesson/dd06a3dd-6806-4ab8-bd8a-5be447ec3e37)
+- [List of Standards](https://101blockchains.com/erc-standards/) - Curated list of all standards
 
 ### Governance 
 
