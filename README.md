@@ -79,15 +79,13 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## Rollups 
 
-- [Arbitrum](https://github.com/OffchainLabs/arbitrum)
-- [dYdX](https://github.com/dydxprotocol)
-- [Optimism](https://github.com/ethereum-optimism)
-- [Loopring](https://github.com/Loopring)
-- [Metis Protocol](https://github.com/MetisProtocol)
-- [Boba Network](https://github.com/bobanetwork)
-- [ZKSync](https://github.com/matter-labs/zksync)
-- [Aztec Protocol](https://github.com/AztecProtocol)
-- [Starkware](https://github.com/starkware-libs/)
+- [Layer 2 for Ethereum](https://ethereum.org/en/layer-2/) - Scaling chain without compromising security.
+- [Go to guide for Layer 2](https://www.blockchain-council.org/ethereum/best-ethereum-layer-2/) - Layer 2 Solutions – A Comprehensive Guide
+- [Arbitrum](https://developer.offchainlabs.com/) - Arbitrum Documentation Centre 
+- [Optimism](https://community.optimism.io/) - Optimism Docs 
+- [ZKSync](https://docs.zksync.io/dev/) - Introduction to zkSync for Developers 
+- [StarkNet](https://github.com/gakonst/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more.  
+- [Everything Polygon](https://blog.polygon.technology/) - Deep dive into Polygon ecosystem and it's verticles
 
 ## EVM
 
@@ -121,6 +119,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-) - Reading list for MEV
 - [MEV Darkforest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 - [Flash Boys 2.0](https://github.com/flashbots/pm)
+
 ## Cryptography 
 
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links
@@ -145,11 +144,6 @@ Curated Collection of Ethereum Ecosystem Resources
 - [ZK Knowledge](https://github.com/delendum-xyz/zk-knowledge) - Knowledge base of ZKP including applications, hardware, technical discussions and more.
 - [ZK Rollups](https://github.com/john-light/zkrollups) - zkRollup resources 
 
-## Layer 2
-
-- [Layer 2 for Ethereum](https://ethereum.org/en/layer-2/) - Scaling chain without compromising security.
-- [Go to guide for Layer 2](https://www.blockchain-council.org/ethereum/best-ethereum-layer-2/) - Layer 2 Solutions – A Comprehensive Guide
-- [Everything Polygon](https://blog.polygon.technology/) - Deep dive into Polygon ecosystem and it's verticles
 
 ## Misc 
 
@@ -195,8 +189,3 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 - [Awesome AMMs](https://github.com/0xperp/awesome-amm) - Collection of AMMs, Orderbooks, and everything in between.
 - [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards. 
-
-
-
-
-
