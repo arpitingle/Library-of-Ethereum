@@ -18,7 +18,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Misc](#misc)
   - [Oracles](#oracles)
   - [Sharding](#sharding)
-  - [Token Standards]()
+  - [Token Standards](#token-standards)
   - [Governance](#governance)
   - [Audit Checklists](#audit-checklists)
   - [Diagrams](#diagrams)
