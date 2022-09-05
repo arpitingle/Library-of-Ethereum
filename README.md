@@ -116,7 +116,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [MEV](https://github.com/pdaian/mev) - Miner extractable value modeling and tools.
 - [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector in Rust
 - [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-) - Reading list for MEV
-- [MEV Darkforest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+- [MEV Darkforest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest) 
 - [Flash Boys 2.0](https://github.com/flashbots/pm)
 
 ## Cryptography 
@@ -178,8 +178,8 @@ Curated Collection of Ethereum Ecosystem Resources
 ### Diagrams 
 
 - [Awesome Ethereum Diagrams](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) - A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.
-- [Ethereum Diagrams](https://github.com/4c656554/BlockchainIllustrations#ethereum)
-- [EVM Illustrated](https://github.com/takenobu-hs/ethereum-evm-illustrated)
+- [Ethereum Diagrams](https://github.com/4c656554/BlockchainIllustrations#ethereum) - Ethereum Diagrams 
+- [EVM Illustrated](https://github.com/takenobu-hs/ethereum-evm-illustrated) - EVM Illustrations   
 
 ### Special Mentions 
 
