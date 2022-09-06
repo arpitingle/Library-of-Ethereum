@@ -188,3 +188,4 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 - [Awesome AMMs](https://github.com/0xperp/awesome-amm) - Collection of AMMs, Orderbooks, and everything in between.
 - [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards. 
+- [Stablecoins Stats](https://stablecoins.wtf/) - The purpose of this website is to educate degens about stablecoins. 
