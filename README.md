@@ -162,9 +162,9 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ### Token Standards
 
-- [ERC Token Standards](https://www.blockchain-council.org/ethereum/erc-token-standards/) - The ultimate list
-- [Applications of different standrds](https://metaschool.so/courses/creating-nfts-using-different-token-standards/lesson/dd06a3dd-6806-4ab8-bd8a-5be447ec3e37)
-- [List of Standards](https://101blockchains.com/erc-standards/) - Curated list of all standards
+- [ERC Token Standards](https://www.blockchain-council.org/ethereum/erc-token-standards/) - ERC Token Standards 
+- [Applications of different standrds](https://metaschool.so/courses/creating-nfts-using-different-token-standards/lesson/dd06a3dd-6806-4ab8-bd8a-5be447ec3e37) - A closer look at different token standards for NFTs namely ERC721, ERC721A and ERC1155 and understanding differences, optimizations and opportunites. 
+- [List of Standards](https://101blockchains.com/erc-standards/) - The Ultimate List Of ERC Token Standards 
 
 ### Governance 
 
