@@ -20,7 +20,7 @@ Curated Collection of Ethereum Ecosystem Resources
   - [Token Standards](#token-standards)
   - [Governance](#governance)
   - [Audit Checklists](#audit-checklists)
-  - [YouTube Channels](#yt-channels)
+  - [YouTube Channels](#youtube-channels)
   - [Diagrams](#diagrams)
   - [Special Mentions](#special-mentions)
 
