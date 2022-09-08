@@ -20,6 +20,7 @@ Curated Collection of Ethereum Ecosystem Resources
   - [Token Standards](#token-standards)
   - [Governance](#governance)
   - [Audit Checklists](#audit-checklists)
+  - [YouTube Channels](#yt-channels)
   - [Diagrams](#diagrams)
   - [Special Mentions](#special-mentions)
 
@@ -176,6 +177,12 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist) - A Solidity smart contract auditing checklist 
 - [Audit Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md) - Bare minimum quality checklist
 
+### YouTube Channels
+
+- [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) - Crypto Education simplified
+- [Bankless](https://www.youtube.com/c/Bankless) - Podcast on frontiers of crypto money and crypto finance
+- [Moralis](https://www.youtube.com/c/MoralisWeb3) - Learn tricks from the most experienced developers in the industry
+- [Dapp University](https://www.youtube.com/c/DappUniversity) - build decentralized apps
 ### Diagrams 
 
 - [Awesome Ethereum Diagrams](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) - A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.
