@@ -144,7 +144,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Ingopedia](https://github.com/ingonyama-zk/ingopedia) - A curated list of ZK resources and links. 
 - [ZK Knowledge](https://github.com/delendum-xyz/zk-knowledge) - Knowledge base of ZKP including applications, hardware, technical discussions and more.
 - [ZK Rollups](https://github.com/john-light/zkrollups) - zkRollup resources 
-
+- [ZK Research Doc](https://polished-wash-d17.notion.site/ZK-Research-58f704196c8f4715adc412fa0cf1a17f) - zk learning resources 
 
 ## Misc 
 
