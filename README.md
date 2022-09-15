@@ -40,6 +40,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts verified on Etherscan 
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for solidity testing 
 - [Boring Solidity](https://github.com/boringcrypto/BoringSolidity) - BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.
+- [Solidity Notes](https://github.com/0xmic/solidity) - Solidity Notes
 
 ### Vyper
 - [Vyper Docs](https://vyper.readthedocs.io/en/stable/) - Official Vyper Docs 
