@@ -15,6 +15,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Cryptography](#cryptography)
 - [ZKPs](#zkps)
 - [Misc](#misc)
+  - [Validator Clients](#validator-clients)
   - [Oracles](#oracles)
   - [Sharding](#sharding)
   - [Token Standards](#token-standards)
@@ -148,6 +149,25 @@ Curated Collection of Ethereum Ecosystem Resources
 - [ZK Research Doc](https://polished-wash-d17.notion.site/ZK-Research-58f704196c8f4715adc412fa0cf1a17f) - zk learning resources 
 
 ## Misc 
+
+### Validator Clients 
+
+Execution Clients 
+
+[Geth](https://github.com/ethereum/go-ethereum) - Go 
+[Akula](https://github.com/openethereum/openethereum) - Rust 
+[Nethermind](https://github.com/NethermindEth/nethermind) - C# , .NET
+[Besu](https://github.com/hyperledger/besu) - Java 
+[Erigon](https://github.com/ledgerwatch/erigon) - Go 
+
+Consensus Clients 
+
+[Lighthouse](https://github.com/sigp/lighthouse) - Rust
+[Lodester](https://github.com/chainsafe/lodestar) - TypeScript 
+[Nimbus](https://github.com/status-im/nimbus-eth1) - Nim
+[Prysm](https://github.com/prysmaticlabs/prysm) - Go 
+[Teku](https://github.com/ConsenSys/teku) - Java 
+
 
 ### Oracles 
 
