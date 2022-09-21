@@ -154,19 +154,19 @@ Curated Collection of Ethereum Ecosystem Resources
 
 Execution Clients 
 
-[Geth](https://github.com/ethereum/go-ethereum) - Go 
-[Akula](https://github.com/openethereum/openethereum) - Rust 
-[Nethermind](https://github.com/NethermindEth/nethermind) - C# , .NET
-[Besu](https://github.com/hyperledger/besu) - Java 
-[Erigon](https://github.com/ledgerwatch/erigon) - Go 
+- [Geth](https://github.com/ethereum/go-ethereum) - Go 
+- [Akula](https://github.com/openethereum/openethereum) - Rust 
+- [Nethermind](https://github.com/NethermindEth/nethermind) - C# , .NET
+- [Besu](https://github.com/hyperledger/besu) - Java 
+- [Erigon](https://github.com/ledgerwatch/erigon) - Go 
 
 Consensus Clients 
 
-[Lighthouse](https://github.com/sigp/lighthouse) - Rust
-[Lodester](https://github.com/chainsafe/lodestar) - TypeScript 
-[Nimbus](https://github.com/status-im/nimbus-eth1) - Nim
-[Prysm](https://github.com/prysmaticlabs/prysm) - Go 
-[Teku](https://github.com/ConsenSys/teku) - Java 
+- [Lighthouse](https://github.com/sigp/lighthouse) - Rust
+- [Lodester](https://github.com/chainsafe/lodestar) - TypeScript 
+- [Nimbus](https://github.com/status-im/nimbus-eth1) - Nim
+- [Prysm](https://github.com/prysmaticlabs/prysm) - Go 
+- [Teku](https://github.com/ConsenSys/teku) - Java 
 
 
 ### Oracles 
