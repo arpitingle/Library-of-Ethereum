@@ -220,3 +220,4 @@ Consensus Clients
 - [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) - A curated list of crypto project trackers and analytics dashboards. 
 - [Stablecoins Stats](https://stablecoins.wtf/) - The purpose of this website is to educate degens about stablecoins. 
 - [Web3 Resources](https://github.com/vikvikvikkk/Web3) - Selection of Web3 tools & resources  
+- [Awesome web3](https://github.com/ahmet/awesome-web3) - A curated list of awesome Web3 resources, libraries, tools and more. 
