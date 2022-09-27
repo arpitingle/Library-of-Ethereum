@@ -79,7 +79,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
 - [Awesome Cryptocurrency Security](https://github.com/nongiach/awesome-cryptocurrency-security) - Curated list about cryptocurrency security. (reverse, exploit, fuzz)
 - [Awesome web3 Security ](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
--[DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. 
+- [DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. 
 
 ## Rollups 
 
