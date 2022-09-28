@@ -144,11 +144,12 @@ Curated Collection of Ethereum Ecosystem Resources
 - [ZKP Learning in public](https://github.com/JofArnold/zkp-learning-in-public) - ZKP resources 
 - [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - Articles, codes and tools all about zero-knowledge proofs
 - [Awesome ZK](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more
-- [Awesoem zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) - A curated list of awesome zkEVM resources, libraries, tools and more
+- [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) - A curated list of awesome zkEVM resources, libraries, tools and more
 - [Ingopedia](https://github.com/ingonyama-zk/ingopedia) - A curated list of ZK resources and links. 
 - [ZK Knowledge](https://github.com/delendum-xyz/zk-knowledge) - Knowledge base of ZKP including applications, hardware, technical discussions and more.
 - [ZK Rollups](https://github.com/john-light/zkrollups) - zkRollup resources 
 - [ZK Research Doc](https://polished-wash-d17.notion.site/ZK-Research-58f704196c8f4715adc412fa0cf1a17f) - zk learning resources 
+- [ZK Science](https://zkp.science/) - What are they, how do they work, and are they fast yet? 
 
 ## Misc 
 
