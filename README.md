@@ -78,7 +78,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools
 - [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
 - [Awesome Cryptocurrency Security](https://github.com/nongiach/awesome-cryptocurrency-security) - Curated list about cryptocurrency security. (reverse, exploit, fuzz)
-- [Awesome web3 Security ](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
+- [Awesome web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 - [DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry. 
 
 ## Rollups 
