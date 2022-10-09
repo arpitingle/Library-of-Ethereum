@@ -141,7 +141,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 - [Ingopedia](https://github.com/ingonyama-zk/ingopedia) - A curated list of ZK resources and links. 
 - [Awesome ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
-- [ZKP Learning in public](https://github.com/JofArnold/zkp-learning-in-public) - ZKP resources 
+- [ZKP Learning in Public](https://github.com/JofArnold/zkp-learning-in-public) - ZKP resources 
 - [Learning ZKP](https://github.com/JofArnold/zkp-learning-in-public) - Articles, codes and tools all about zero-knowledge proofs
 - [Awesome ZK](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more
 - [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) - A curated list of awesome zkEVM resources, libraries, tools and more
