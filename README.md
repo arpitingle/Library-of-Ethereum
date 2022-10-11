@@ -65,8 +65,8 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) - DeFi Research Tools 
 - [DeFi Open Source Tools](https://github.com/gauss314/defi) - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more
 - [DeFi Papers](https://github.com/irnb/DeFiPapers) - Collection of papers related to DeFi 
-- [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list)
-- [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit)
+- [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list) - It is a list of the available tools, projects, and protocols for analyzing and managing risk within DeFi.
+- [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit) - Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem 
 - [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
 - [DeFi Playground](https://github.com/0xDaksh/defi-playground) - DeFi playground to learn about protocols
 - [DeFi MOOC Fall 2022](https://defi-learning.org/f22) - Lectures from Dan Boneh Arthur Gervais, Andrew Miller, Christine Parlour, Dawn Song 
