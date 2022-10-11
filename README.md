@@ -85,6 +85,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 - [Layer 2 for Ethereum](https://ethereum.org/en/layer-2/) - Scaling chain without compromising security.
 - [Go to guide for Layer 2](https://www.blockchain-council.org/ethereum/best-ethereum-layer-2/) - A Comprehensive Guide on Layer 2 Solutions 
+- [L2BEAT](https://l2beat.com/scaling/tvl/) - L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling. We provide a comparison of the various Ethereum L2 systems available today. 
 - [Arbitrum](https://developer.offchainlabs.com/) - Arbitrum Documentation Centre 
 - [Optimism](https://community.optimism.io/) - Optimism Docs 
 - [ZKSync](https://docs.zksync.io/dev/) - Introduction to zkSync for Developers 
