@@ -224,3 +224,4 @@ Consensus Clients
 - [Stablecoins Stats](https://stablecoins.wtf/) - The purpose of this website is to educate degens about stablecoins. 
 - [Web3 Resources](https://github.com/vikvikvikkk/Web3) - Selection of Web3 tools & resources  
 - [Awesome web3](https://github.com/ahmet/awesome-web3) - A curated list of awesome Web3 resources, libraries, tools and more. 
+- [Eth2Book](https://eth2book.info/bellatrix/) - A technical handbook on Ethereum's move to proof of stake and beyond
