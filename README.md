@@ -42,6 +42,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for solidity testing 
 - [Boring Solidity](https://github.com/boringcrypto/BoringSolidity) - BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.
 - [Solidity Notes](https://github.com/0xmic/solidity) - Solidity Notes
+- [Smart-Contract-Fiesta](https://huggingface.co/datasets/Zellic/smart-contract-fiesta) - An open-source, high-quality dataset of over over 175M lines of Ethereum smart contract source code! It has about ~150k unique contract sources across 30M smart contracts.
 
 ### Vyper
 - [Vyper Docs](https://vyper.readthedocs.io/en/stable/) - Official Vyper Docs 
