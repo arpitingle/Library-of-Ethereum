@@ -70,7 +70,8 @@ Curated Collection of Ethereum Ecosystem Resources
 - [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit) - Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem 
 - [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
 - [DeFi Playground](https://github.com/0xDaksh/defi-playground) - DeFi playground to learn about protocols
-- [DeFi MOOC Fall 2022](https://defi-learning.org/f22) - Lectures from Dan Boneh Arthur Gervais, Andrew Miller, Christine Parlour, Dawn Song 
+- [DeFi MOOC Fall 2022](https://defi-learning.org/f22) - Lectures from Dan Boneh Arthur Gervais, Andrew Miller, Christine Parlour, Dawn Song
+- [Uniswap V3 implementation from scratch](https://uniswapv3book.com/) - This book will guide you through the development of a decentralized application (not for beginners) 
 
 ## Security 
 
