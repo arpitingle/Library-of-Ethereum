@@ -65,6 +65,7 @@ Curated Collection of Ethereum Ecosystem Resources
 - [Money Legos](https://github.com/studydefi/money-legos) - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) - DeFi Research Tools 
 - [DeFi Open Source Tools](https://github.com/gauss314/defi) - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more
+- [Swapifie](https://www.swapifie.com) - Multi-chain DEX aggregator for finding optimal swap rates across Ethereum, Arbitrum, Base, Polygon, Optimism, BNB Chain and Avalanche
 - [DeFi Papers](https://github.com/irnb/DeFiPapers) - Collection of papers related to DeFi 
 - [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list) - It is a list of the available tools, projects, and protocols for analyzing and managing risk within DeFi.
 - [DeFi Toolkit](https://hackmd.io/@gweicz/defi-toolkit) - Curated list of best tools and resources for user of Ethereum (DeFi) ecosystem 
